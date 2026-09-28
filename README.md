@@ -24,7 +24,7 @@
 <h2 align="center">Tech stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,redis,visualstudio,pycharm&theme=dark" alt="Python, PostgreSQL, SQLite, Redis, Visual Studio, and PyCharm" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,visualstudio&theme=dark" alt="Python, FastAPI, PostgreSQL, Redis, Docker, and Visual Studio" />
 </div>
 
 <br />

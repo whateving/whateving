@@ -26,10 +26,9 @@ jobs:
             dist/github-snake-dark.svg?color_snake=%23ff4da6&color_dots=%23111111,%23500d2e,%238a124d,%23c91870,%23ff4da6
 
       - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          build_dir: dist
-          branch: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
+          force_orphan: true

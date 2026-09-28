@@ -24,7 +24,7 @@
 <h2 align="center">Tech stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,visualstudio,pycharm&theme=dark" alt="Python, Visual Studio, and PyCharm" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,sqlite,redis,visualstudio,pycharm&theme=dark" alt="Python, PostgreSQL, SQLite, Redis, Visual Studio, and PyCharm" />
 </div>
 
 <br />
@@ -32,8 +32,9 @@
 <h2 align="center">GitHub stats</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=whateving&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF4DA6&icon_color=FF4DA6&text_color=F2F2F2&ring_color=FF4DA6" alt="whateving's GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whateving&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF4DA6&text_color=F2F2F2" alt="whateving's most-used languages" />
+  <img src="https://img.shields.io/github/followers/whateving?style=for-the-badge&logo=github&label=Followers&labelColor=111111&color=FF4DA6" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/whateving?affiliations=OWNER&style=for-the-badge&logo=github&label=Total%20Stars&labelColor=111111&color=FF4DA6" alt="Total GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=whateving&style=for-the-badge&label=PROFILE+VIEWS&color=ff4da6" alt="Profile views" />
 </div>
 
 <br />
@@ -53,4 +54,3 @@
 <p align="center">
   <code>stay curious // build securely // keep it chill</code>
 </p>
-
